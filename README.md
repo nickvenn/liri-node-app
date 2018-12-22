@@ -1,3 +1,3 @@
 # liri-node-app
 liri node app
-hello
+![GitHub Logo](/images/logo.png)
